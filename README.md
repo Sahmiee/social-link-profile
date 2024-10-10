@@ -53,5 +53,4 @@ I'll keep working hard to fully understand and comprehend all the different css 
 
 ## Author
 
-- Website - [Sahmie](social-link-profile-tau-flame.vercel.app)
 - Frontend Mentor - [@Sahmiee](https://www.frontendmentor.io/profile/Sahmiee)
