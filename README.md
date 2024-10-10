@@ -52,5 +52,4 @@ Users should be able to:
 I'll keep working hard to fully understand and comprehend all the different css stylings as well as making a website responsive
 
 ## Author
-
 - Frontend Mentor - [@Sahmiee](https://www.frontendmentor.io/profile/Sahmiee)
