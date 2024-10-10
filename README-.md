@@ -8,15 +8,10 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -32,10 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
+- Solution URL: (https://www.frontendmentor.io/solutions/social-link-profile-using-html-and-css-HL8wzKWnCS)
+- Live Site URL: (social-link-profile-tau-flame.vercel.app)
 
 ### Built with
 
@@ -60,5 +53,5 @@ I'll keep working hard to fully understand and comprehend all the different css 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Sahmiee)
+- Website - [Sahmie](social-link-profile-tau-flame.vercel.app)
+- Frontend Mentor - [@Sahmiee](https://www.frontendmentor.io/profile/Sahmiee)
